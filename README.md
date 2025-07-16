@@ -41,11 +41,11 @@ console.log("Nome em maiúsculas:", fullName.toUpperCase());
 console.log("Nome em minúsculas:", fullName.toLowerCase());
 ```
 #### Desafios
-a) Extraia o primeiro nome usando o método slice ou substring
-b) Verifique se o nome completo contém a letra 'a'
-c) Substitua "Silva" por outro sobrenome usando replace
+##### a) Extraia o primeiro nome usando o método slice ou substring
+##### b) Verifique se o nome completo contém a letra 'a'
+##### c) Substitua "Silva" por outro sobrenome usando replace
 
-### Exercício 3: Operações Matemáticas (15 minutos)
+### Exercício 3: Operações Matemáticas
 
 **Objetivo**: Praticar operações matemáticas e conversão de tipos.
 
@@ -81,11 +81,11 @@ console.log("Depois de converter:", convertedNumber, typeof convertedNumber);
 ```
 
 #### Desafios
-a) Calcule a média de 3 números: 15, 25 e 38
-b) Converta a string "123.45" em um número
-c) Arredonde o resultado de 9.7 dividido por 2 para o inteiro mais próximo
+##### a) Calcule a média de 3 números: 15, 25 e 38.
+##### b) Converta a string "123.45" em um número.
+##### c) Arredonde o resultado de 9.7 dividido por 2 para o inteiro mais próximo.
 
-### Exercício 4: Estruturas Condicionais (20 minutos)
+### Exercício 4: Estruturas Condicionais
 
 **Objetivo**: Praticar o uso de if/else e operadores lógicos.
 
@@ -129,17 +129,17 @@ console.log("Status:", status);
 ```
 
 #### Desafios
-a) Crie um sistema de classificação de notas:
+##### a) Crie um sistema de classificação de notas:
     - 0-59: F
     - 60-69: D
     - 70-79: C
     - 80-89: B
     - 90-100: A
-b) Verifique se um número é par ou ímpar
-c) Crie uma verificação que diga se uma pessoa pode dirigir
+##### b) Verifique se um número é par ou ímpar
+##### c) Crie uma verificação que diga se uma pessoa pode dirigir
     (precisa ser maior de idade E ter habilitação)
 
-### Exercício 5: Loops (20 minutos)
+### Exercício 5: Loops
 
 **Objetivo**: Praticar diferentes tipos de loops.
 
@@ -181,11 +181,11 @@ for (let i = 0; i < fruits.length; i++) {
 ```
 
 #### Desafios
-a) Crie um loop que imprima a tabuada do 7 (de 1 a 10)
-b) Crie um array de números e calcule a soma deles usando um loop
-c) Crie um loop que identifique o menor valor em um array de números
+##### a) Crie um loop que imprima a tabuada do 7 (de 1 a 10)
+##### b) Crie um array de números e calcule a soma deles usando um loop
+##### c) Crie um loop que identifique o menor valor em um array de números
 
-### Exercício 6: Desafio Integrador (30 minutos)
+### Exercício 6: Desafio Integrador
 
 **Objetivo**: Aplicar todos os conceitos aprendidos em conjunto.
 
@@ -204,10 +204,10 @@ const students = [
 ```
 
 #### Desafios
-a) Para cada aluno, calcule a média das notas
-b) Determine se cada aluno foi aprovado ou reprovado (média >= 70 para aprovar)
-c) Conte quantos alunos foram aprovados e quantos foram reprovados
-d) Encontre o aluno com a maior média
-e) Calcule a média geral da turma
+##### a) Para cada aluno, calcule a média das notas
+##### b) Determine se cada aluno foi aprovado ou reprovado (média >= 70 para aprovar)
+##### c) Conte quantos alunos foram aprovados e quantos foram reprovados
+##### d) Encontre o aluno com a maior média
+##### e) Calcule a média geral da turma
 
 > Use console.log() para mostrar todos os resultados com mensagens claras
